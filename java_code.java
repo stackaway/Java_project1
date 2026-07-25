@@ -1,3 +1,5 @@
-public static void main(String[] main){
-System.out.println("Hello world");
+public class java_code {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
